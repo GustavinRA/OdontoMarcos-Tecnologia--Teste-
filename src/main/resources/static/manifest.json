@@ -3,17 +3,17 @@
   "name": "Teste Back-end - SEA Tecnologia",
   "icons": [
     {
-      "src": "logoSEA.png",
+      "src": "logoOdonto.png", 
       "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "logoSEA.png",
+      "src": "logoOdonto.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logoSEA.png",
+      "src": "logoOdonto.png",
       "type": "image/png",
       "sizes": "512x512"
     }

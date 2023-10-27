@@ -11,7 +11,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 public class SwaggerConfig {
 
     @Bean
-    public Docket apiDocket() {
+    public Docket apiDocket() { //A Docket define como a documentação da API deve ser gerada e exibida.
         return new Docket(DocumentationType.OAS_30)
                 .select()
                 .apis(RequestHandlerSelectors.any())
